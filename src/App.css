@@ -1,5 +1,16 @@
+@import '~antd/dist/antd.css';
+
 .App {
   text-align: center;
+  display: flex;
+}
+.table-block {
+  width: 100%;
+}
+
+.list-block {
+  width: 50%;
+  text-align: left;
 }
 
 .App-logo {
